@@ -1,0 +1,1127 @@
+[
+ {
+  "id": "airi",
+  "nameEn": "Airi",
+  "nameTh": "ไอริ",
+  "role": "Assassin",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "aleister",
+  "nameEn": "Aleister",
+  "nameTh": "อเลสเตอร์",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "alice",
+  "nameEn": "Alice",
+  "nameTh": "อลิซ",
+  "role": "Support",
+  "enemyLanes": [
+   "midlane",
+   "roaming"
+  ]
+ },
+ {
+  "id": "allain",
+  "nameEn": "Allain",
+  "nameTh": "อัลเลน",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "amily",
+  "nameEn": "Amily",
+  "nameTh": "เอมิลี่",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "annette",
+  "nameEn": "Annette",
+  "nameTh": "แอนเนตต์",
+  "role": "Support",
+  "enemyLanes": [
+   "midlane",
+   "roaming"
+  ]
+ },
+ {
+  "id": "aoi",
+  "nameEn": "Aoi",
+  "nameTh": "อาโออิ",
+  "role": "Assassin",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "arduin",
+  "nameEn": "Arduin",
+  "nameTh": "อาร์ดูอิน",
+  "role": "Warrior",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "arthur",
+  "nameEn": "Arthur",
+  "nameTh": "อาเธอร์",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "arum",
+  "nameEn": "Arum",
+  "nameTh": "อารัม",
+  "role": "Tank",
+  "enemyLanes": []
+ },
+ {
+  "id": "astrid",
+  "nameEn": "Astrid",
+  "nameTh": "แอสตริด",
+  "role": "Warrior",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "ata",
+  "nameEn": "Ata",
+  "nameTh": "อาต้า",
+  "role": "Tank",
+  "enemyLanes": []
+ },
+ {
+  "id": "aya",
+  "nameEn": "Aya",
+  "nameTh": "อายะ",
+  "role": "Support",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "azzen-ka",
+  "nameEn": "Azzen'Ka",
+  "nameTh": "แอซเซนก้า",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "baldum",
+  "nameEn": "Baldum",
+  "nameTh": "บัลดัม",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "bijan",
+  "nameEn": "Bijan",
+  "nameTh": "บิจาน",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "billow",
+  "nameEn": "Billow",
+  "nameTh": "บิลโล่",
+  "role": "Warrior",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "biron",
+  "nameEn": "Biron",
+  "nameTh": "ไบรอน",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "bolt-baron",
+  "nameEn": "Bolt Baron",
+  "nameTh": "โบลท์บารอน",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "bonnie",
+  "nameEn": "Bonnie",
+  "nameTh": "บอนนี่",
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "bright",
+  "nameEn": "Bright",
+  "nameTh": "ไบรท์",
+  "role": "Assassin",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "brunhilda",
+  "nameEn": "Brunhilda",
+  "nameTh": "บรุนฮิลดา",
+  "role": "Marksman",
+  "enemyLanes": []
+ },
+ {
+  "id": "butterfly",
+  "nameEn": "Butterfly",
+  "nameTh": "บัตเตอร์ฟลาย",
+  "role": "Assassin",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "capheny",
+  "nameEn": "Capheny",
+  "nameTh": "คาเฟนี่",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "celica",
+  "nameEn": "Celica",
+  "nameTh": "เซลิกา",
+  "role": "Marksman",
+  "enemyLanes": []
+ },
+ {
+  "id": "charlotte",
+  "nameEn": "Charlotte",
+  "nameTh": "ชาร์ลอตต์",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "chaugnar",
+  "nameEn": "Chaugnar",
+  "nameTh": "ชองนาร์",
+  "role": "Support",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "cresht",
+  "nameEn": "Cresht",
+  "nameTh": "เครชท์",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "d-arcy",
+  "nameEn": "D'Arcy",
+  "nameTh": "ดาร์ซี่",
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "dextra",
+  "nameEn": "Dextra",
+  "nameTh": "เด็กซ์ตรา",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "diao-chan",
+  "nameEn": "Diao Chan",
+  "nameTh": "เตียวจัน",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "dirak",
+  "nameEn": "Dirak",
+  "nameTh": "ดิแรก",
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "dolia",
+  "nameEn": "Dolia",
+  "nameTh": "โดเลีย",
+  "role": "Support",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "dyadia",
+  "nameEn": "Dyadia",
+  "nameTh": "ไดอาเดีย",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane",
+   "roaming"
+  ]
+ },
+ {
+  "id": "edras",
+  "nameEn": "Edras",
+  "nameTh": "เอดราส",
+  "role": "Warrior",
+  "enemyLanes": [
+   "jungle",
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "eland-orr",
+  "nameEn": "Eland'orr",
+  "nameTh": "อีแลนดอร์",
+  "role": "Marksman",
+  "enemyLanes": [
+   "jungle",
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "elsu",
+  "nameEn": "Elsu",
+  "nameTh": "เอลซู",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "enzo",
+  "nameEn": "Enzo",
+  "nameTh": "เอนโซ",
+  "role": "Assassin",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "erin",
+  "nameEn": "Erin",
+  "nameTh": "เอริน",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "errol",
+  "nameEn": "Errol",
+  "nameTh": "เอร์โรล",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "evita",
+  "nameEn": "Evita",
+  "nameTh": null,
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "fennik",
+  "nameEn": "Fennik",
+  "nameTh": "เฟนนิก",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "florentino",
+  "nameEn": "Florentino",
+  "nameTh": "ฟลอเรนติโน",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "flowborn",
+  "nameEn": "Flowborn",
+  "nameTh": null,
+  "role": "Marksman",
+  "enemyLanes": [
+   "midlane",
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "gildur",
+  "nameEn": "Gildur",
+  "nameTh": "กิลเดอร์",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "goverra",
+  "nameEn": "Goverra",
+  "nameTh": "โกเวร่า",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "grakk",
+  "nameEn": "Grakk",
+  "nameTh": "แกรค",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "hayate",
+  "nameEn": "Hayate",
+  "nameTh": "ฮายาเตะ",
+  "role": "Marksman",
+  "enemyLanes": [
+   "dark-slayer",
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "heino",
+  "nameEn": "Heino",
+  "nameTh": "ไฮโน",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "helen",
+  "nameEn": "Helen",
+  "nameTh": "เฮเลน",
+  "role": "Support",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "iggy",
+  "nameEn": "Iggy",
+  "nameTh": "อิกกี้",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "ignis",
+  "nameEn": "Ignis",
+  "nameTh": "อิกนิส",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "ilumia",
+  "nameEn": "Ilumia",
+  "nameTh": "อิลูเมีย",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "ishar",
+  "nameEn": "Ishar",
+  "nameTh": "อิชาร์",
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "jinnar",
+  "nameEn": "Jinnar",
+  "nameTh": "จินนาร์",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "kahlii",
+  "nameEn": "Kahlii",
+  "nameTh": "กาลี",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "kaine",
+  "nameEn": "Kaine",
+  "nameTh": "เคน",
+  "role": "Assassin",
+  "enemyLanes": []
+ },
+ {
+  "id": "keera",
+  "nameEn": "Keera",
+  "nameTh": "คีร่า",
+  "role": "Assassin",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "kil-groth",
+  "nameEn": "Kil'Groth",
+  "nameTh": "คิลกรอท",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "kriknak",
+  "nameEn": "Kriknak",
+  "nameTh": "คริกนาค",
+  "role": "Assassin",
+  "enemyLanes": []
+ },
+ {
+  "id": "krixi",
+  "nameEn": "Krixi",
+  "nameTh": "คริกซี่",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "krizzix",
+  "nameEn": "Krizzix",
+  "nameTh": "คริซซิก",
+  "role": "Support",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "lauriel",
+  "nameEn": "Lauriel",
+  "nameTh": "ลอเรียล",
+  "role": "Mage",
+  "enemyLanes": [
+   "dark-slayer",
+   "midlane"
+  ]
+ },
+ {
+  "id": "laville",
+  "nameEn": "Laville",
+  "nameTh": "ลาวิลล์",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "liliana",
+  "nameEn": "Liliana",
+  "nameTh": "ลิเลียน่า",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "lindis",
+  "nameEn": "Lindis",
+  "nameTh": "ลินดิส",
+  "role": "Marksman",
+  "enemyLanes": []
+ },
+ {
+  "id": "lorion",
+  "nameEn": "Lorion",
+  "nameTh": "โลริออน",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "lu-bu",
+  "nameEn": "Lu Bu",
+  "nameTh": "ลิโป้",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "lumburr",
+  "nameEn": "Lumburr",
+  "nameTh": "ลัมเบอร์",
+  "role": "Support",
+  "enemyLanes": []
+ },
+ {
+  "id": "maloch",
+  "nameEn": "Maloch",
+  "nameTh": "มาลอค",
+  "role": "Warrior",
+  "enemyLanes": [
+   "midlane",
+   "roaming"
+  ]
+ },
+ {
+  "id": "marja",
+  "nameEn": "Marja",
+  "nameTh": "มาร์จ้า",
+  "role": "Mage",
+  "enemyLanes": [
+   "dark-slayer",
+   "jungle"
+  ]
+ },
+ {
+  "id": "max",
+  "nameEn": "Max",
+  "nameTh": "แม็กซ์",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "mganga",
+  "nameEn": "Mganga",
+  "nameTh": "กังกะ",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "mina",
+  "nameEn": "Mina",
+  "nameTh": "มีน่า",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "ming",
+  "nameEn": "Ming",
+  "nameTh": "หมิง",
+  "role": "Support",
+  "enemyLanes": []
+ },
+ {
+  "id": "moren",
+  "nameEn": "Moren",
+  "nameTh": "โมเร่น",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "mortos",
+  "nameEn": "Mortos",
+  "nameTh": "มอร์ทอส",
+  "role": "Warrior",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "murad",
+  "nameEn": "Murad",
+  "nameTh": "มูราด",
+  "role": "Assassin",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "nakroth",
+  "nameEn": "Nakroth",
+  "nameTh": "นาครอท",
+  "role": "Assassin",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "natalya",
+  "nameEn": "Natalya",
+  "nameTh": "นาทัลย่า",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "omega",
+  "nameEn": "Omega",
+  "nameTh": "โอเมก้า",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "omen",
+  "nameEn": "Omen",
+  "nameTh": "โอเมน",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "ormarr",
+  "nameEn": "Ormarr",
+  "nameTh": "โอมาร์",
+  "role": "Tank",
+  "enemyLanes": []
+ },
+ {
+  "id": "paine",
+  "nameEn": "Paine",
+  "nameTh": "เพน",
+  "role": "Assassin",
+  "enemyLanes": []
+ },
+ {
+  "id": "payna",
+  "nameEn": "Payna",
+  "nameTh": "เพย์น่า",
+  "role": "Support",
+  "enemyLanes": []
+ },
+ {
+  "id": "preyta",
+  "nameEn": "Preyta",
+  "nameTh": "เปรตา",
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "qi",
+  "nameEn": "Qi",
+  "nameTh": "ฉี",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "quillen",
+  "nameEn": "Quillen",
+  "nameTh": "ควิลเลน",
+  "role": "Assassin",
+  "enemyLanes": []
+ },
+ {
+  "id": "raz",
+  "nameEn": "Raz",
+  "nameTh": "ราซ",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "riktor",
+  "nameEn": "Riktor",
+  "nameTh": null,
+  "role": null,
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "rouie",
+  "nameEn": "Rouie",
+  "nameTh": "รูอี้",
+  "role": "Support",
+  "enemyLanes": [
+   "midlane",
+   "roaming"
+  ]
+ },
+ {
+  "id": "rourke",
+  "nameEn": "Rourke",
+  "nameTh": "รอร์ค",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "roxie",
+  "nameEn": "Roxie",
+  "nameTh": "ร็อกซี่",
+  "role": "Tank",
+  "enemyLanes": []
+ },
+ {
+  "id": "ryoma",
+  "nameEn": "Ryoma",
+  "nameTh": "เรียวม่า",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer",
+   "jungle"
+  ]
+ },
+ {
+  "id": "sephera",
+  "nameEn": "Sephera",
+  "nameTh": "เซเฟร่า",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "sinestrea",
+  "nameEn": "Sinestrea",
+  "nameTh": "ซิเนสเทรีย",
+  "role": "Assassin",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "skud",
+  "nameEn": "Skud",
+  "nameTh": "สกัด",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "slimz",
+  "nameEn": "Slimz",
+  "nameTh": "สลิมซ์",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "stuart",
+  "nameEn": "Stuart",
+  "nameTh": "สจ๊วร์ต",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "superman",
+  "nameEn": "Superman",
+  "nameTh": "ซูเปอร์แมน",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "taara",
+  "nameEn": "Taara",
+  "nameTh": "ทาร่า",
+  "role": "Tank",
+  "enemyLanes": [
+   "dark-slayer",
+   "jungle"
+  ]
+ },
+ {
+  "id": "tachi",
+  "nameEn": "Tachi",
+  "nameTh": "ทาชิ",
+  "role": "Warrior",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "tamyn",
+  "nameEn": "Tamyn",
+  "nameTh": null,
+  "role": "Warrior",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "teemee",
+  "nameEn": "TeeMee",
+  "nameTh": "ทีมี",
+  "role": "Support",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "teeri",
+  "nameEn": "Teeri",
+  "nameTh": "ทีริ",
+  "role": "Marksman",
+  "enemyLanes": []
+ },
+ {
+  "id": "tel-annas",
+  "nameEn": "Tel'Annas",
+  "nameTh": "เทลอันนาส",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "thane",
+  "nameEn": "Thane",
+  "nameTh": "เธน",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "the-flash",
+  "nameEn": "The Flash",
+  "nameTh": "เดอะแฟลช",
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "thorne",
+  "nameEn": "Thorne",
+  "nameTh": "ธอร์น",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "toro",
+  "nameEn": "Toro",
+  "nameTh": "โทโร่",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "tulen",
+  "nameEn": "Tulen",
+  "nameTh": "ทูเลน",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "valhein",
+  "nameEn": "Valhein",
+  "nameTh": "วาลไฮน์",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "veera",
+  "nameEn": "Veera",
+  "nameTh": "วีร่า",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "veres",
+  "nameEn": "Veres",
+  "nameTh": "เวเรส",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "violet",
+  "nameEn": "Violet",
+  "nameTh": "ไวโอเลต",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "volkath",
+  "nameEn": "Volkath",
+  "nameTh": "โวคาท",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer",
+   "jungle"
+  ]
+ },
+ {
+  "id": "wiro",
+  "nameEn": "Wiro",
+  "nameTh": "วิโร่",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "wisp",
+  "nameEn": "Wisp",
+  "nameTh": "วิสป์",
+  "role": "Marksman",
+  "enemyLanes": [
+   "abyssal-dragon"
+  ]
+ },
+ {
+  "id": "wonder-woman",
+  "nameEn": "Wonder Woman",
+  "nameTh": "วันเดอร์วูแมน",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "wukong",
+  "nameEn": "Wukong",
+  "nameTh": "วูคง",
+  "role": "Assassin",
+  "enemyLanes": []
+ },
+ {
+  "id": "xeniel",
+  "nameEn": "Xeniel",
+  "nameTh": "เซเนียล",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "y-bneth",
+  "nameEn": "Y'bneth",
+  "nameTh": "อิ๊บเนท",
+  "role": "Tank",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "yan",
+  "nameEn": "Yan",
+  "nameTh": "หยาน",
+  "role": "Warrior",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "yena",
+  "nameEn": "Yena",
+  "nameTh": "เยน่า",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer"
+  ]
+ },
+ {
+  "id": "yorn",
+  "nameEn": "Yorn",
+  "nameTh": "ยอร์น",
+  "role": "Marksman",
+  "enemyLanes": []
+ },
+ {
+  "id": "yue",
+  "nameEn": "Yue",
+  "nameTh": "เยว่",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "zanis",
+  "nameEn": "Zanis",
+  "nameTh": "ซานิส",
+  "role": "Warrior",
+  "enemyLanes": []
+ },
+ {
+  "id": "zata",
+  "nameEn": "Zata",
+  "nameTh": "ซาต้า",
+  "role": "Mage",
+  "enemyLanes": [
+   "midlane"
+  ]
+ },
+ {
+  "id": "zephys",
+  "nameEn": "Zephys",
+  "nameTh": "เซฟิส",
+  "role": "Warrior",
+  "enemyLanes": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "zill",
+  "nameEn": "Zill",
+  "nameTh": "ซิล",
+  "role": "Mage",
+  "enemyLanes": []
+ },
+ {
+  "id": "zip",
+  "nameEn": "Zip",
+  "nameTh": "ซิป",
+  "role": "Support",
+  "enemyLanes": [
+   "roaming"
+  ]
+ },
+ {
+  "id": "zuka",
+  "nameEn": "Zuka",
+  "nameTh": "ซูก้า",
+  "role": "Warrior",
+  "enemyLanes": [
+   "dark-slayer",
+   "jungle"
+  ]
+ }
+]
