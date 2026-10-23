@@ -1,0 +1,25 @@
+# dependencies / build
+node_modules/
+dist/
+*.log
+
+# ===== ข้อมูลต้นทางและภาพที่มีข้อจำกัดด้านสิทธิ์ — ห้ามเข้า repo สาธารณะ =====
+# โฟลเดอร์ data-source มีภาพของ QZADD, ภาพอ้างอิงฮีโร่ของ Garena และเครื่องมือตรวจที่ฝังภาพเหล่านั้น
+/data-source/
+# ไฟล์ภาพต้นฉบับชุดเดิมที่ผู้ใช้เก็บไว้
+/RoV-Counter-Draft/
+**/reference-icons/
+**/review-tool.html
+**/human-results*
+
+# ระบบ
+.DS_Store
+Thumbs.db
+.env
+.env.*
+
+# เครื่องมือพัฒนา
+/.claude/
+
+# ภาพฮีโร่ (ลิขสิทธิ์ Garena) ใช้แสดงในเครื่องเท่านั้น — ห้ามเข้า repo สาธารณะ
+/public/hero-images/
